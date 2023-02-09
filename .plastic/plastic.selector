@@ -1,0 +1,4 @@
+repository "cg_proj@Unity_Sproj@cloud"
+  path "/"
+    br "/main"
+    co "/main"
